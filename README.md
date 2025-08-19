@@ -87,9 +87,10 @@ Input Sequence → Embedding → LSTM Layers → Dense Layer → Predicted Next 
 
 ## 📂 Project Structure
 
-📦 Next-Word-Prediction-Project
-┣ 📜 next_word_prediction.ipynb #Colab File
-┣ 📜 date.txt # Dataset
-┣ 📜 README.md # Project Documentation
+📦 Next-Word-Prediction-Project  
+ ┣ 📜 next_word_prediction.ipynb   # Colab File  
+ ┣ 📜 data.txt                     # Dataset  
+ ┗ 📜 README.md                    # Project Documentation  
+
 
 ---
